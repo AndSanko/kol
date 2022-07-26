@@ -1,0 +1,52 @@
+h1 {
+    font-family: Lazy Sketch;
+    font-size: 500%;
+    background-color: lightgray;
+    text-align: center;
+}
+
+h2{
+    color: white;
+    font-family: Calibri;
+    padding-top: 20px;
+    padding-left: 20px;
+    
+}
+
+.tour{
+    background-color: rgb(75, 74, 74);
+}
+
+.date{
+    color: white;
+    font-family: Calibri;
+
+}
+
+.city{
+    color: white;
+    font-family: Calibri;
+}
+
+.here{
+    color: white;
+    
+}
+
+
+
+.albums{
+    background-color: beige;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    font-family: Calibri;
+}
+
+.sign {
+    color: white;
+    background-color: lightgray;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
